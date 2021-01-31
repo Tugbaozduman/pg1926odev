@@ -1,0 +1,9 @@
+sayilar=[2,4,1,6,4,0,0]
+sayilar[0]=0
+sayilar[1]=0
+sayilar[2]=2
+sayilar[3]=4
+sayilar[4]=1
+sayilar[5]=6
+sayilar[6]=4
+print(sayilar)
